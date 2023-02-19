@@ -1,3 +1,6 @@
 [submodule "exercicio-ui"]
 	path = exercicio-ui
 	url = https://github.com/kellyrrmartins/exercicio-ui
+[submodule "exercicio-api"]
+	path = exercicio-api
+	url = https://github.com/kellyrrmartins/exercicio-api

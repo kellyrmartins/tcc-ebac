@@ -1,0 +1,3 @@
+[submodule "exercicio-ui"]
+	path = exercicio-ui
+	url = https://github.com/kellyrrmartins/exercicio-ui

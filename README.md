@@ -7,7 +7,7 @@ Cypress testes de UI e API a realizar um integração usando o Jenkins e usar o
 Jmeter na realização de testes de performance.
 
 
-Esse trabalho tem com objetivo demonstra o fluxo de trabalho de um QA desde
+Esse trabalho tem com objetivo demonstrar o fluxo de trabalho de um QA desde
 o planejamento até entrega, passando desde a elaboração da estratégia de
 testes e de critérios de aceites a automação de cenário e integração
 continua até sua entrega na plataforma do github

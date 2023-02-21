@@ -9,5 +9,5 @@ Jmeter na realização de testes de performance.
 
 Esse trabalho tem com objetivo demonstra o fluxo de trabalho de um QA desde
 o planejamento até entrega, passando desde a elaboração da estratégia de
-testes e de critérios de aceites a automação de de cenário e integração
+testes e de critérios de aceites a automação de cenário e integração
 continua até sua entrega na plataforma do github
